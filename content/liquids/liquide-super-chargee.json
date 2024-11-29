@@ -1,0 +1,8 @@
+{
+	"type": "liquid",
+	"name": "Liquide Super Chargée",
+	"description": "Liquide chargée",
+	"hardness": 4,
+	"cost": 2.0,
+	"color": "f3e979"
+}

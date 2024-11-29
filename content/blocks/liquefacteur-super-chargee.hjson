@@ -1,0 +1,40 @@
+type: "GenericSmelter",
+name: "Liquéfacteur Super Chargée",
+description: "Liquéfit de l'alliage super chargée",
+liquidCapacity: 15
+itemCapacity: 10
+outputLiquid: {
+	liquid: {
+		liquid: liquide-super-chargee
+		amount: 10
+	}
+}
+size: 3,
+hasPower: true,
+hasItems: true,
+hasLiquids: true,
+craftTime: 30,
+updateEffect: "smeltsmoke",
+consumes: {
+	power: 10,
+	items: {
+		items: [
+		{ item: "surge-alloy", "amount": 3 },
+		]
+	}
+  	liquid: {
+    	liquid: slag
+    	amount: 0.1
+ 	},
+		
+},
+requirements: [
+	{ item: "lead", "amount": 600 },
+	{ item: "thorium", "amount": 250 },
+	{ item: "silicon", "amount": 400 },
+	{ item: "surge-alloy", "amount": 560 },
+	{ item: "graphite", "amount": 350 }
+],
+category: "crafting",
+research: "graphite-press",
+
