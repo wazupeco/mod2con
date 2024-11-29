@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Cryocharger",
-	"description": "Mlange l'alliage avec le liquide cryo",
+	"description": "Mélange l'alliage avec le liquide cryo",
 	"outputItem": {"item": "alliage-cryocharge", "amount": 4},
 	"size": 3,
 	"hasPower": true,
