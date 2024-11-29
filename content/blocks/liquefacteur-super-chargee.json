@@ -7,8 +7,8 @@ outputLiquid: {
 	liquid: {
 	liquid: liquide-super-chargee,
 	amount: 10,
-	}
-}
+	},
+},
 size: 3,
 hasPower: true,
 hasItems: true,
