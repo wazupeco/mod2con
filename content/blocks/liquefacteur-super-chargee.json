@@ -9,7 +9,7 @@ outputLiquid: {
 	amount: 10,
 	},
 },
-size: 3,
+size: 2,
 hasPower: true,
 hasItems: true,
 hasLiquids: true,
