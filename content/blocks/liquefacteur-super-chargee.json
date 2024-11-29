@@ -1,12 +1,12 @@
 type: "GenericSmelter",
 name: "Liquéfacteur Super Chargée",
 description: "Liquéfit de l'alliage super chargée",
-liquidCapacity: 15
-itemCapacity: 10
+liquidCapacity: 15,
+itemCapacity: 10,
 outputLiquid: {
 	liquid: {
-	liquid: liquide-super-chargee
-	amount: 10
+	liquid: liquide-super-chargee,
+	amount: 10,
 	}
 }
 size: 3,
@@ -23,8 +23,8 @@ consumes: {
 		]
 	}
   	liquid: {
-    	liquid: slag
-    	amount: 0.1
+    	liquid: slag,
+    	amount: 0.1,
  	},
 		
 },
