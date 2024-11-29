@@ -5,8 +5,8 @@ liquidCapacity: 15
 itemCapacity: 10
 outputLiquid: {
 	liquid: {
-		liquid: liquide-super-chargee
-		amount: 10
+	liquid: liquide-super-chargee
+	amount: 10
 	}
 }
 size: 3,
