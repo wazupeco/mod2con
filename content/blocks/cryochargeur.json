@@ -1,28 +1,30 @@
 {
 	"type": "GenericSmelter",
-	"name": "Trinium Refinery",
-	"description": "loads trinium into graphite shells to contain radiation.",
-	"outputItem": {"item": "alliage-cryochargé", "amount": 4},
+	"name": "Cryocharger",
+	"description": "mMlange l'alliage avec le liquide cryo",
+	"outputItem": {"item": "alliage-cryocharge", "amount": 4},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,
 	"craftTime": 45,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 150,
-		"items": {
-			"items": [
-				{ "item": "surge-alloy", "amount": 3 },
-				{ "liquid": "cryofluid", "amount": 12 }
+		"power": 10,
+		items: {
+			items: [
+			{ item: "surge-alloy", "amount": 3 },
 			]
-		},
+		}
+  		liquid: {
+    		liquid: cryofluid
+    		amount: 0.2
+ 		},
 		
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 100 },
-		{ "item": "silicon", "amount": 40 },
-		{ "item": "trinium", "amount": 60 },
+		{ "item": "silicon", "amount": 40 }
 		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "crafting",
