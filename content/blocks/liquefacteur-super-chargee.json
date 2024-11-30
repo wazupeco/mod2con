@@ -1,14 +1,9 @@
-type: "GenericSmelter",
+type: "GenericCrafter",
 name: "Liquéfacteur Super Chargée",
 description: "Liquéfit de l'alliage super chargée",
-liquidCapacity: 15,
+liquidCapacity: 50,
 itemCapacity: 10,
-outputLiquid: {
-	liquid: {
-	liquid: liquide-super-chargee,
-	amount: 10,
-	},
-},
+outputLiquid: {"liquid": "liquide-super-chargee", "amount": 1},
 size: 2,
 hasPower: true,
 hasItems: true,
@@ -19,7 +14,7 @@ consumes: {
 	power: 10,
 	items: {
 		items: [
-		{ item: "surge-alloy", "amount": 3 },
+		{ item: "surge-alloy", "amount": 1 },
 		]
 	}
   	liquid: {
