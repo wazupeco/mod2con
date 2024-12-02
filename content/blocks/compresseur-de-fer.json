@@ -1,0 +1,26 @@
+{
+	"type": "GenericCrafter",
+	"name": "Compresseur de fer",
+	"description": "Créé des plaque de fer",
+	"outputItem": {"item": "plaque-de-fer", "amount": 3},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 30,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 2.5,
+		"items": {
+			"items": [
+				{"item": "fer", "amount": 5},
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "fer", "amount": 100 },
+		{ "item": "copper", "amount": 100 },
+		{ "item": "graphite", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+}

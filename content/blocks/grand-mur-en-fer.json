@@ -1,0 +1,12 @@
+{
+	"name": "Grand mur en fer",
+	"description": "Un grand mur de fer.",
+	"type": "Wall",
+	"health": 1500,
+	"size": 2,
+	"requirements": [
+		{ "item": "plaque-de-fer", "amount":24 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

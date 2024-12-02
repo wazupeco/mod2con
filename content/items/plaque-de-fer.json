@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Plaque de fer",
+	"description": "Un métal",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Petit mur en fer",
+	"description": "Un petit mur de fer.",
+	"type": "Wall",
+	"health": 390,
+	"size": 1,
+	"requirements": [
+		{ "item": "plaque-de-fer", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
