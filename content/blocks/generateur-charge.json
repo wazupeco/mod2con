@@ -1,5 +1,5 @@
  {
-	"type": "basePowerGeneration",
+	"type": "PowerGenerator",
 	"name": "Génarateur chargé",
 	"description": "The power of power.",
 	"size": 5,
@@ -10,12 +10,12 @@
 	"consumes": {
 		items: {
 			items: [
-			{ item: "alliage-cryocharge", "amount": 3 },
+				{ item: "alliage-cryocharge", "amount": 3 },
 			]
 		}
   		liquid: {
-    		liquid: cryofluid
-    		amount: 0.2
+    			liquid: cryofluid
+    			amount: 0.2
  		},
 		
 
