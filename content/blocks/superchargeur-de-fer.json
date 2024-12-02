@@ -13,7 +13,7 @@
 		"items": {
 			"items": [
 				{"item": "plaque-de-fer", "amount": 5},
-				{"item": "Silicon", "amount": 10},
+				{"item": "silicon", "amount": 10},
 			]
 		}
 	},
