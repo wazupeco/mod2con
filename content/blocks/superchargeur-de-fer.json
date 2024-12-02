@@ -1,0 +1,29 @@
+code antonin
+
+{
+	"type": "GenericCrafter",
+	"name": "Compresseur d'alliage",
+	"description": "Créé de l'alliage super chargé ",
+	"outputItem": {"item": "surge-alloy", "amount": 2},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 10,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 20,
+		"items": {
+			"items": [
+				{"item": "plaque-de-fer", "amount": 5},
+				{"item": "Silicon", "amount": 10},
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "plaque-de-fer", "amount": 100 },
+		{ "item": "surge-alloy", "amount": 100 },
+		{ "item": "thorium", "amount": 150 }
+	],
+	"category": "crafting",
+	"research": "graphite-press",
+}

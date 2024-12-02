@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Cryocharger",
-	"description": "Mélange l'alliage avec le liquide cryo",
+	"description": "Mélange des plaques de fer avec le liquide cryogénique",
 	"outputItem": {"item": "alliage-cryocharge", "amount": 3},
 	"size": 3,
 	"hasPower": true,
@@ -12,7 +12,7 @@
 		"power": 10,
 		items: {
 			items: [
-			{ item: "surge-alloy", "amount": 3 },
+			{ item: "plaque-de-fer", "amount": 3 },
 			]
 		}
   		liquid: {
