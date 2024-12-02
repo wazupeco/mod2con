@@ -1,7 +1,7 @@
  {
 	"type": "SingleTypeGenerator",
 	"name": "Génarateur chargé",
-	"description": "The power of power.","S
+	"description": "The power of power.",
 	"size": 5,
 	"hasPower": true,
 	"hasItems": true,
