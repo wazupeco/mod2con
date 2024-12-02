@@ -8,16 +8,17 @@
 	"itemDuration": 100,
 	"powerProduction": 165,
 	"consumes": {
-		     "items": {
-			"items": [
-				{ "item": "alliage-cryocharge", "amount": 2 },
-			],
-			"optional": false
-				}
+		items: {
+			items: [
+			{ item: "alliage-cryocharge", "amount": 3 },
+			]
+		}
   		liquid: {
     		liquid: cryofluid
     		amount: 0.2
  		},
+		
+
 		
 	},
 	"requirements": [
