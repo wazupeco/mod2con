@@ -1,6 +1,6 @@
  {
 	"type": "PowerGenerator",
-	"name": "Génarateur chargée",
+	"name": "Génarateur chargé",
 	"description": "The power of power.",
 	"size": 5,
 	"hasPower": true,
@@ -13,11 +13,12 @@
 				{ "item": "alliage-cryocharge", "amount": 2 },
 			],
 			"optional": false
-		},
-		"liquid": {
-			"liquid": "cryofluid",
-			"amount": 1.0
-	        }
+				}
+  		liquid: {
+    		liquid: cryofluid
+    		amount: 0.2
+ 		},
+		
 	},
 	"requirements": [
 		{ "item": "alliage-cryocharge", "amount": 120 },
