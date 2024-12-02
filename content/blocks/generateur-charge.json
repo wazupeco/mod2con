@@ -1,5 +1,5 @@
  {
-	"type": "ngleTypeGenerator",
+	"type": "SingleTypeGenerator",
 	"name": "Génarateur chargé",
 	"description": "The power of power.","S
 	"size": 5,
