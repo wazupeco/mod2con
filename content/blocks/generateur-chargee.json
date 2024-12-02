@@ -1,5 +1,5 @@
  {
-	"type": "PowerGeneration",
+	"type": "basePowerGeneration",
 	"name": "Génarateur chargé",
 	"description": "The power of power.",
 	"size": 5,
