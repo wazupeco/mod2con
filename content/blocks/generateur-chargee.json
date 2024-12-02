@@ -1,0 +1,30 @@
+ {
+	"type": "SingleTypeGenerator",
+	"name": "Génarateur chargée",
+	"description": "The power of power.",
+	"size": 5,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 100,
+	"powerProduction": 165,
+	"consumes": {
+		     "items": {
+			"items": [
+				{ "item": "alliage-cryocharge", "amount": 2 },
+			],
+			"optional": false
+		},
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 1.0
+	        }
+	},
+	"requirements": [
+		{ "item": "alliage-cryocharge", "amount": 120 },
+		{ "item": "silicon", "amount": 150 },
+		{ "item": "titanium", "amount": 300 },
+    		{ "item": "plastanium", "amount": 40 }
+	],
+	"category": "power",
+	"research": "impact-reactor"
+}
