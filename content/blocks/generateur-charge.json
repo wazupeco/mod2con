@@ -1,7 +1,7 @@
  {
-	"type": "PowerGenerator",
+	"type": "ngleTypeGenerator",
 	"name": "Génarateur chargé",
-	"description": "The power of power.",
+	"description": "The power of power.","S
 	"size": 5,
 	"hasPower": true,
 	"hasItems": true,
