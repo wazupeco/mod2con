@@ -11,17 +11,17 @@
 		"power": 16,
 		"items": {
 			"items": [
-				 {sand 3.42/sec} 
-				 {dark Sand 3.42/sec} 
-				 {copper 2.90/sec}
-				 {lead 2.90/sec}
-				 {scrap 3.42/sec}
-				 {coal 2.52/sec}
-				 {titanium 2.23/sec}
-				 {thorium 2/sec}
-				 {beryllium 2.23/sec}
-				 {tungsten 1.81/sec}
-				 {thorium 2/sec}
+				 {sand 3.42/sec}, 
+				 {dark Sand 3.42/sec}, 
+				 {copper 2.90/sec},
+				 {lead 2.90/sec},
+				 {scrap 3.42/sec},
+				 {coal 2.52/sec},
+				 {titanium 2.23/sec},
+				 {thorium 2/sec},
+				 {beryllium 2.23/sec},
+				 {tungsten 1.81/sec},
+				 {thorium 2/sec},
 			]
 		}
 	},
