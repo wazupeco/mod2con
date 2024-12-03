@@ -1,0 +1,22 @@
+{
+	"name": "La MEGA DRILL",
+	"description": "the best of best drill.",
+	"type": "Drill",
+	"size": 5,
+	"tier": 4,
+	"drillTime": 250,
+	"consumes": {
+		"power": 12.0,
+		"liquid": {
+			"liquid": "liquide-super-chargee", 
+			"amount": 0.2,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}
