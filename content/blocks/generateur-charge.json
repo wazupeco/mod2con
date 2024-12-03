@@ -1,12 +1,14 @@
  {
-	"type": "SingleTypeGenerator",
-	"name": "Génarateur chargé",
+	"type": "PowerGenerator",
+	"name": "Générateur chargé",
 	"description": "The power of power.",
 	"size": 5,
 	"hasPower": true,
 	"hasItems": true,
+	"outputsPower": true,
 	"itemDuration": 100,
-	"outputsPower": 165,
+	"craftTime": 30,
+	"powerProduction": 165,
 	"consumes": {
 		items: {
 			items: [
