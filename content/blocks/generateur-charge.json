@@ -15,7 +15,8 @@
 			"optional": false
 		}
   		liquid: {
-    			{ liquid: cryofluid, amount: 0.2 },
+    			liquid: cryofluid,
+			amount: 0.2,
  		},
 
 
