@@ -1,19 +1,19 @@
  {
-	"type": "PowerGenerator",
+	"type": "SingleTypeGenerator",
 	"name": "Générateur chargé",
 	"description": "The power of power.",
 	"size": 5,
 	"hasPower": true,
 	"hasItems": true,
 	"outputsPower": true,
-	"itemDuration": 100,
-	"craftTime": 30,
+	"itemDuration": 30,
 	"powerProduction": 165,
 	"consumes": {
 		items: {
 			items: [
 				{ item: "alliage-cryocharge", "amount": 3 },
 			]
+			"optional": false
 		}
   		liquid: {
     			liquid: cryofluid
