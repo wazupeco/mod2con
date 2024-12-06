@@ -21,7 +21,6 @@
 		}
 	},
 	"requirements": [
-		{ "item": "silver", "amount": 40 },
 		{ "item": "copper", "amount": 70 }
 	],
 	"category": "turret",
