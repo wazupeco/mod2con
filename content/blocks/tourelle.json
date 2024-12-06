@@ -10,7 +10,7 @@
 	"inaccuracy": 30,
 	"rotatespeed": 12,
 	"ammo": {
-		"silver": {
+		"copper": {
 			"speed": 3.0,
 			"damage": 3,
 			"bulletWidth": 7,
