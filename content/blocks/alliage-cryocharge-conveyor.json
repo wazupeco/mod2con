@@ -8,6 +8,6 @@
 		{"item": "titanium", "amount": 6}
 	],
 	"category": "distribution",
-	"speed": 0.15,
+	"speed": 0.13,
 	"research": "titanium-conveyor"
 }
