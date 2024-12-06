@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Convoyeur en alliage cryochargé",
+	"description": "Parce qu'il faut trouver une utilitée à l'alliage cryochargé",
+	"requirements": [
+		{"item": "alliage-cryocharge", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "trinium", "amount": 6}
+	],
+	"category": "distribution",
+	"speed": 0.15,
+	"research": "titanium-conveyor"
+}
