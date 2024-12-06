@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Compresseur d'alliage",
+	"name": "Superchargeur de fer",
 	"description": "Créé de l'alliage super chargé ",
 	"outputItem": {"item": "surge-alloy", "amount": 2},
 	"size": 3,
@@ -9,7 +9,7 @@
 	"craftTime": 30,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 20,
+		"power": 7.5,
 		"items": {
 			"items": [
 				{"item": "plaque-de-fer", "amount": 5},
@@ -19,6 +19,7 @@
 	},
 	"requirements": [
 		{ "item": "plaque-de-fer", "amount": 100 },
+		{ "item": "silicon", "amount": 150},
 		{ "item": "surge-alloy", "amount": 100 },
 		{ "item": "thorium", "amount": 150 }
 	],
