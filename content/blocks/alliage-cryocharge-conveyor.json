@@ -5,7 +5,7 @@
 	"requirements": [
 		{"item": "alliage-cryocharge", "amount": 3},
 		{"item": "copper", "amount": 3},
-		{"item": "trinium", "amount": 6}
+		{"item": "titanium", "amount": 6}
 	],
 	"category": "distribution",
 	"speed": 0.15,
