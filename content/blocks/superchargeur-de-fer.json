@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Superchargeur de fer",
 	"description": "Créé de l'alliage super chargé ",
-	"outputItem": {"item": "surge-alloy", "amount": 2},
+	"outputItem": {"item": "surge-alloy", "amount": 3},
 	"size": 3,
 	"hasPower": true,
 	"hasItems": true,

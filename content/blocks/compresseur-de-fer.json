@@ -22,5 +22,5 @@
 		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "crafting",
-	"research": "graphite-press",
+	"research": "fonderie-de-fer",
 }
