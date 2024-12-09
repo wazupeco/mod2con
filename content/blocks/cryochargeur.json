@@ -21,11 +21,10 @@
 		
 	},
 	"requirements": [
-		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 100 },
-		{ "item": "silicon", "amount": 40 }
+		{ "item": "plaque-de-fer", "amount": 75 },
+		{ "item": "silicon", "amount": 100 }
 		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "crafting",
-	"research": "graphite-press",
+	"research": "compresseur-de-fer",
 }

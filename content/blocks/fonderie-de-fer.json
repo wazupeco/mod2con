@@ -9,7 +9,7 @@
 	"craftTime": 30,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 0.5,
+		"power": 1.5,
 		"items": {
 			"items": [
 				{"item": "lead", "amount": 7},

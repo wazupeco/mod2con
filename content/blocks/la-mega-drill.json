@@ -6,10 +6,10 @@
 	"tier": 4,
 	"drillTime": 250,
 	"consumes": {
-		"power": 12.0,
+		"power": 5.0,
 		"liquid": {
 			"liquid": "liquide-super-chargee", 
-			"amount": 0.2,
+			"amount": 0.1,
 			"optional": true
 		}
 	},

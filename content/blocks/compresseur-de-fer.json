@@ -17,10 +17,10 @@
 		}
 	},
 	"requirements": [
-		{ "item": "fer", "amount": 100 },
+		{ "item": "fer", "amount": 50 },
 		{ "item": "copper", "amount": 100 },
 		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "crafting",
-	"research": "graphite-press",
+	"research": "fonderie-de-fer",
 }
