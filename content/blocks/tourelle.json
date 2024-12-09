@@ -1,7 +1,7 @@
 {
 	"type": "DoubleTurret",
-	"name": "Silver Turret",
-	"description": "Sprays useless silver bullets everywhere. What a mess.",
+	"name": "Oh la tuile",
+	"description": "C'est un test on s'en fout",
 	"health": 200,
 	"size": 1,
 	"reload": 4,
