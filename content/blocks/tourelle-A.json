@@ -1,8 +1,8 @@
 
 {
 	"type": "doubleturret",
-	"name": "silver turret",
-	"description": "sprays useless silver bullets everywhere.",
+	"name": "turret",
+	"description": "sprays useless bullets everywhere.",
 	"health": 200,
 	"size": 2,
 	"reload": 4,
@@ -11,7 +11,7 @@
 	"inaccuracy": 30,
 	"rotatespeed": 12,
 	"ammo": {
-		"silver": {
+		"copper": {
 			"speed": 3.0,
 			"damage": 3,
 			"bulletWidth": 7,
@@ -22,7 +22,7 @@
 		}
 	},
 	"requirements": [
-		{ "item": "silver", "amount": 40 },
+		{ "item": "lead", "amount": 40 },
 		{ "item": "copper", "amount": 70 }
 	],
 	"category": "turret",
