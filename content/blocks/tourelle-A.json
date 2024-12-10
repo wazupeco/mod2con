@@ -1,10 +1,10 @@
 
 {
-	"type": "DoubleTurret",
-	"name": "Silver Turret",
-	"description": "Sprays useless silver bullets everywhere. What a mess.",
+	"type": "doubleturret",
+	"name": "silver turret",
+	"description": "sprays useless silver bullets everywhere.",
 	"health": 200,
-	"size": 1,
+	"size": 2,
 	"reload": 4,
 	"range": 100,
 	"ammoUseEffect": "shellEjectSmall",
