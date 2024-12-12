@@ -1,0 +1,27 @@
+//define ammo, which is done by assigning a bullet type per item
+ammo: {
+  //re-define old types of ammo
+  graphite: standardDenseBig
+  pyratite: standardIncendiaryBig
+  thorium: standardThoriumBig
+  
+  //define a custom type with different properties
+  alliage-cryocharge: {
+    //move 6 world units per frame (very fast)
+    speed: 5.0
+    damage: 75
+    //0.5x reload time, so 2x shoot speed
+    reloadMultiplier: 1
+    splashDamageRadius: 12
+    //visual size - does not affect hitbox
+    bulletWidth: 10
+    bulletHeight: 14
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    //2 bullets per trinite rod
+    ammoMultiplier: 3
+    //visual bullet front and back
+    backColor: 0986B7
+    frontColor: 36FF52
+  }
+}
