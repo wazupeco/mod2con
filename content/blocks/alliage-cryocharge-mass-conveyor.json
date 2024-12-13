@@ -1,0 +1,18 @@
+{
+  "type": "StackConveyor",
+  "name": "Convoyeur de mass en alliage cryochargé"
+  "description": "Parce qu'il faut trouver une utilitée à l'alliage cryochargé.(encore)",
+  "loadEffect": "none"
+  "unloadEffect": "none"
+  "health": 160,
+  "speed": 0.13,
+  "itemCapacity": 45,
+  "outputRouter": true,
+  "requirements": [
+    "alliage-cryocharge/3",
+    "silicon/1",
+    "titanium/6",
+  ],
+  "research": "plastanium-conveyor",
+  "category": "distribution"
+}
