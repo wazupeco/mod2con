@@ -3,9 +3,11 @@
 	"name": "Compresseur de collègue d'Anto",
 	"description": "Compresse les collègues qui on fait des unités",
 	"outputItem": {"item": "collegue-d-anto-compresse", "amount": 1},
+	"outputLiquid": {"liquid": "sang-du-collegue-d-anto", "amount": 0.2},
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
+	"hasLiquids": true,
 	"craftTime": 120,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
