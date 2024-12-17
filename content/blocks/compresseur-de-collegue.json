@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Compresseur de collègue d'Anto",
-	"description": "Compresse les collègues qui on fait des unités",
+	"description": "Compresse les collègues qui ont fait des unités",
 	"outputItem": {"item": "collegue-d-anto-compresse", "amount": 1},
 	"outputLiquid": {"liquid": "sang-du-collegue-d-anto", "amount": 0.2},
 	"size": 2,
