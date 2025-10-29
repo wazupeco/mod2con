@@ -1,0 +1,12 @@
+{
+	"name": "mur en carbone",
+	"description": "mur de carbone.",
+	"type": "Wall",
+	"health": 3000,
+	"size": 2,
+	"requirements": [
+		{ "item": "carbone", "amount":17 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
