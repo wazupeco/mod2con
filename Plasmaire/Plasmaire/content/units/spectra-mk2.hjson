@@ -1,0 +1,11 @@
+
+name: spectra-mk2
+type: flying
+speed: 2.1
+health: 220
+weapons:
+  - name: spectra-beam
+    reload: 5
+    bullet:
+      type: continuousLaser
+      damage: 24

@@ -1,0 +1,13 @@
+
+type: laser
+name: prism
+description: "Tourelle laser plasma"
+health: 450
+range: 14
+reload: 1
+shootType: continuous
+consumes:
+  power: 0.4
+  item:
+    item: plasma-crystal
+    amount: 1

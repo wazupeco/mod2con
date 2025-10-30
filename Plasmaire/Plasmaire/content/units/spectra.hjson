@@ -1,0 +1,11 @@
+
+name: spectra
+type: flying
+speed: 2.6
+health: 95
+weapons:
+  - name: spectra-laser
+    reload: 15
+    bullet:
+      type: laser
+      damage: 8
